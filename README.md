@@ -1,4 +1,11 @@
 # Text-to-Speech-in-Kannada-with-Emotions
+Capstone Project by Team-58.
+Team members:
+Rishika Satheesh
+Minal H. R
+Deboleena Mukherjee
+Nikila S
+
 A project where we have used MLR and DT models to predict emotions from Kannada text and then convert Kannada text to speech using gTTS and pydub.
 
 The goal of the "Text to Speech in Kannada with Emotions" project is to translate Kannada text into speech with a human-like tone characterized by emotions. With the help of Text classification, Emotion detection and other NLP tasks, this project will fulfill the goal. The project helps to make reading easier for the visually impaired and senior citizens. With the added emotions, the final output seeks to sound more human. 
